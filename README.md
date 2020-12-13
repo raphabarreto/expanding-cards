@@ -63,7 +63,7 @@ retráteis ao clicar neles, mostrando esse efeito logo abaixo.
 ## 🌐 Resultado
 
 <h1 align="center">
-    <img alt="Expanding Cards" title="#delicinha" src="https://j.gifs.com/ROEynE.gif" />
+    <img alt="Expanding Cards" title="#delicinha" src=".github/expanding-cards.gif" />
 </h1>
 
 ## 🔥 Instalação
@@ -78,6 +78,7 @@ $ yarn install
 # Abre o arquivo index.html no seu navegador ou através do Live Server do Visual Studio Code
 
 ```
+
 ---
 
 ## 🤔 Como contribuir
